@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"All Autocomplete",
+		"ayu",
+		"Babel",
+		"Color Highlighter",
+		"Colorsublime",
+		"CSS3",
+		"GitGutter",
+		"HTML5",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-pep8"
+	]
+}
